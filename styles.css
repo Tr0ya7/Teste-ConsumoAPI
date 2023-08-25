@@ -1,0 +1,14 @@
+body {
+    position: absolute;
+    top: 5%;
+    right: 40%;
+}
+
+div {
+    position: relative;
+    margin-top: 100px;
+}
+
+img {
+    display: none;
+}
